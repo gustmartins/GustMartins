@@ -1,4 +1,13 @@
-### Hi there 👋
+### Olá, você! 👋
+
+Fascinado com **JS em todo lugar** e em como essa linguagem é vesátil e importante nos dias de hoje ✨
+
+Essas são as coisas que mantém ocupado diariamente:
+
+- ⭐️ Desenvolvimento em [React.js](https://pt-br.reactjs.org/) e [NodeJS](https://nodejs.org/en/)
+- ⚡ Infraestrutura em nuvem AWS com [Architect](https://arc.codes/)
+
+
 
 <!--
 **GustMartins/GustMartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
