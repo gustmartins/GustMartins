@@ -1,12 +1,12 @@
 ### Olá, você! 👋
 
-Fascinado com **JS em todo lugar** e em como essa linguagem é vesátil e importante nos dias de hoje ✨
+✨ Ando fascinado com o conceito de **JavaScript em todo lugar** e em como essa linguagem é vesátil e importante para os dias de hoje! ✨
 
-Essas são as coisas que mantém ocupado diariamente:
+Essas são as coisas que me mantém ocupado diariamente:
 
 - ⭐️ Desenvolvimento em [React.js](https://pt-br.reactjs.org/) e [NodeJS](https://nodejs.org/en/)
 - ⚡ Infraestrutura em nuvem AWS com [Architect](https://arc.codes/)
-
+- 🌱 Estudos sobre TypeScript e qualquer coisa relacionada a JavaScript! 😄
 
 
 <!--
