@@ -1,6 +1,6 @@
 ### Olá, você! 👋
 
-✨ Ando fascinado com o conceito de **JavaScript em todo lugar** e em como essa linguagem é vesátil e importante para os dias de hoje! ✨
+✨ Apaixonado pelo conceito de **JavaScript em todo lugar** e em como essa linguagem é vesátil e importante para os dias de hoje! ✨
 
 Essas são as coisas que me mantém ocupado diariamente:
 
