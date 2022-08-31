@@ -23,3 +23,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+---
+
+<a href="https://app.daily.dev/gustmartins"><img src="https://api.daily.dev/devcards/29e95b1a632e46e2a2c1022470e1409d.png?r=bko" width="150" alt="Gustavo Martins's Dev Card"/></a>
