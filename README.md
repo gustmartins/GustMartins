@@ -4,10 +4,6 @@
 <h3 align="center">A passionate developer from Brazil</h3>
 </div>
 
-<p top="200">
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGQ4NGJmZGE1YzIzZjdkNGUxYzZiNDRjZDdhMTk0NTA4MDViNTg1YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/4sZjohRLVUZqD4W4XD/giphy.gif">
-</p>
-
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Web+developer,;Frontend+Developer,;Backend+Developer,;JavaScript+Lover++&hearts;"></a>
 </p>
